@@ -38,4 +38,4 @@ Este proceso está basado en la metodología Design Thinking y lo puedes tomar d
 6. Aprende a detenerte y presenta soluciones.
 
 ## Reglas del reto ⏱️
-Tienes un tiempo de ejecución definido por **3 (tres) horas**. Una vez que culmines por favor envía tu material, documentos, diseños a los correos:  [lespinoza@megabitefood.com](mailto:lespinoza@megabitefood.com) y [pneira@megabitefood.com](mailto:pneira@megabitefood.com)
+Tienes un tiempo de ejecución definido por **3 (tres) horas**. Una vez que culmines por favor envía tu material, documentos, diseños a los correos:  [lespinoza@megabitefood.com](mailto:lespinoza@megabitefood.com), con copia a [pneira@megabitefood.com](mailto:pneira@megabitefood.com)
